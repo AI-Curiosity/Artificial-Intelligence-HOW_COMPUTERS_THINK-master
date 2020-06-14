@@ -1,1 +1,1 @@
-# Artificial-Intelligence-HOW_COMPUTERS_THINK-master
+An introduction to AI with Hands on exercises
