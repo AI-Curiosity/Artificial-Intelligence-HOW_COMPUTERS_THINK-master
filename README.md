@@ -1,7 +1,11 @@
 
 A guide on basics and how to approach Artificial Intelligence.
 
+![AI](AI.jpg)
+
 The book contains following sections:
+
+
 
 * [Regression Methods](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.Regression%20Methods)
 
