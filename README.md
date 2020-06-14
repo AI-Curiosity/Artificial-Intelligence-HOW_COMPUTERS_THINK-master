@@ -1,1 +1,2 @@
-An introduction to AI with Hands on exercises
+
+A guide on basics and how to approach Artificial Intelligence
