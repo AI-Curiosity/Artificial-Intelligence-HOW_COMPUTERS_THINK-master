@@ -6,4 +6,4 @@
 
 3. [Unsupervised Learning](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms/Unsupervised%20Learning)
 
-4. [Neural Networks]https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms/Neural%20Networks(
+4. [Neural Networks](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms/Neural%20Networks)
