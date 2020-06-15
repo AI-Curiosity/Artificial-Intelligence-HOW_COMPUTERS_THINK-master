@@ -7,7 +7,7 @@ The book contains following sections:
 
 
 
-* [Regression Methods](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.Regression%20Methods)
+* [Introduction to Basic Machine Learning Algorithms](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms)
 
 * [Deep Learning](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/2.Deep%20Learning)
 
