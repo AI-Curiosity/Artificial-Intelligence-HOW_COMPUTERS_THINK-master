@@ -1,4 +1,4 @@
-## Regression Methods
+## Basic Machine Learning Algorithms
 
 1. [ Regression Techniques ](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms/Regression%20Techniques)
 
