@@ -3,13 +3,11 @@ A guide on basics and how to approach Artificial Intelligence.
 
 ![AI](AI.jpg)
 
-The book contains following sections:
+The repo contains the coding tutorials for the topics covered throughout the book.
 
 
+Note- All the codes have been run on google colab for ease purposes. 
 
-* [Introduction to Basic Machine Learning Algorithms](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/1.%20Introduction%20to%20Basic%20Machine%20Learning%20Algorithms)
+ It eliminates the need to natively maintain various environments and packages to run the code. They also provide GPU for accelerated learning.
 
-* [Deep Learning](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/2.Deep%20Learning)
-
-* [NLP](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/3.NLP)
-* [Reinforcement Learning](https://github.com/AI-Curiosity/Artificial-Intelligence-HOW_COMPUTERS_THINK-master/tree/master/4.Reinforcement%20Learning)
+ If someone faces problem in implementing this code on their local environment, please create a pull request for the same. It will be resolved asap.
