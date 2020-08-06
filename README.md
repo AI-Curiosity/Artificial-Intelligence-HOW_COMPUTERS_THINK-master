@@ -5,6 +5,11 @@ A guide on basics and how to approach Artificial Intelligence.
 
 The repo contains the coding tutorials for the topics covered throughout the book.
 
+The Complete resource including the book and additional resources like code and documents links have been prepared with combined efforts of following authors:
+
+![@Authors](Author.jpg)
+
+
 
 Note- All the codes have been run on google colab for ease purposes. 
 
